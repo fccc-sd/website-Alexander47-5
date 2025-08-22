@@ -3,10 +3,6 @@ text-align : center ;
 }
 
 body {
-
-    background-color: darkgoldenrod ;
-}
-
-body {
-    color : azure
+    color : azure ;
+    background-color : darkgoldenrod ;
 }
