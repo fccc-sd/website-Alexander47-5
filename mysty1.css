@@ -62,3 +62,28 @@ header
 {
     font-weight: bolder;
 }
+
+nav
+{
+    background-color: black;
+    line-height: 2em ;
+    display: block ;
+}
+
+nav li 
+{
+    display: inline ;
+    padding-right: 40px ;
+
+}
+
+
+nav a:link
+{
+    color: whitesmoke;
+}
+
+nav a:visited
+{
+    color: whitesmoke;
+}
