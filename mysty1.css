@@ -28,9 +28,37 @@ h2, h3, h4, h5 {
 
 }
 
-h6 {  font-family : Arial, Helvetica, sans-serif ;
+h6 {
+    font-family : Arial, Helvetica, sans-serif ;
     font-size : x-small ;
     font-style : normal ;
     font-weight : normal ;
     line-height : 1.5;
-    background-color: rgb(3, 122, 74); }
+    background-color: rgb(3, 122, 74);
+ }
+
+ #background
+ {
+    font-weight: bold;
+ }
+
+ #companies
+ {
+    font-weight: bolder;
+ }
+
+ footer
+ {
+    font-weight: bolder;
+ }
+
+
+ main
+{
+    font-weight: bold;
+}
+
+header
+{
+    font-weight: bolder;
+}
