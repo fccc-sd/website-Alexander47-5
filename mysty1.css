@@ -1,0 +1,89 @@
+h1 {
+background-color: rgb(3, 122, 74);
+font-family: Arial, Helvetica, sans-serif ;
+font-size: xx-large ;
+font-style: italic ;
+font-weight: bold ;
+line-height: 1.5;
+text-align : center ;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size : medium ;
+    font-style : normal ;
+    font-weight :normal ;
+    line-height: normal;
+    color : azure ;
+    background-color : darkgoldenrod ;
+}
+
+h2, h3, h4, h5 {
+    font-family : Arial, Helvetica, sans-serif ;
+    font-size : x-large ;
+    font-style : normal ;
+    font-weight : normal ;
+    line-height : 1.5;
+    background-color: rgb(3, 122, 74);
+
+}
+
+h6 {
+    font-family : Arial, Helvetica, sans-serif ;
+    font-size : x-small ;
+    font-style : normal ;
+    font-weight : normal ;
+    line-height : 1.5;
+    background-color: rgb(3, 122, 74);
+ }
+
+ #background
+ {
+    font-weight: bold;
+ }
+
+ #companies
+ {
+    font-weight: bolder;
+ }
+
+ footer
+ {
+    font-weight: bolder;
+ }
+
+
+ main
+{
+    font-weight: bold;
+}
+
+header
+{
+    font-weight: bolder;
+}
+
+nav
+{
+    background-color: black;
+    line-height: 2em ;
+    display: block ;
+}
+
+nav li 
+{
+    display: inline ;
+    padding-right: 40px ;
+
+}
+
+
+nav a:link
+{
+    color: whitesmoke;
+}
+
+nav a:visited
+{
+    color: whitesmoke;
+}
